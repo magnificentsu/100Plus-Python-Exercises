@@ -1,2 +1,2 @@
 # 100Plus-Python-Exercises
-Exercises to help deepen knowledge and understand of Python programming language.
+Exercises to help deepen knowledge and understanding of Python programming language.
